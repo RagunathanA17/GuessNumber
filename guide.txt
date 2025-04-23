@@ -1,1 +1,2 @@
 Here I was created a new file name guide.txt file
+I am created a guess number game using html and css and javascript as a mini project.
